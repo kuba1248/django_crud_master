@@ -1,0 +1,2 @@
+# django_crud_master
+kuba1248/django_crud_master
